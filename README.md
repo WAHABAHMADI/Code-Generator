@@ -16,4 +16,6 @@ This is a code generator that can randomly generate a code for the user. It has 
 
 ![The code generator's photo](./Assets/Codegen.png)
 
+Click [here](https://wahabahmadi.github.io/Code-Generator/) to go to the page.
+
 ## 
